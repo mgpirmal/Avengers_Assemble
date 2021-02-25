@@ -20,7 +20,7 @@
 
   ## Description
   
-  This project is a showcase of using modules like jest and inquirer to test produce a html that is able will show team information that is provided by the user. 
+  This project is a showcase of using modules like jest and inquirer to test and produce a html that is able will show team information that is provided by the user. 
     
   ## Installation
     
