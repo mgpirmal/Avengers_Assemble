@@ -1,0 +1,28 @@
+{
+  "name": "avengers_assemble",
+  "version": "1.0.0",
+  "description": "Assemble Your Team",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node ./test/employee.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgpirmal/Avengers_Assemble.git"
+  },
+  "author": "Matthew Pirmal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mgpirmal/Avengers_Assemble/issues"
+  },
+  "homepage": "https://github.com/mgpirmal/Avengers_Assemble#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0",
+    "jest": "^26.6.3",
+    "jquery": "^3.5.1"
+  }
+}
